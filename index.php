@@ -32,7 +32,7 @@ $message = "Welcome to My Website!";
 <body>
     <div class="box">
         <h1><?php echo $message; ?></h1>
-        <p>Thank You For Visiting Our Site.</p>
+        <p>Better Call Saul</p>
     </div>
 </body>
 </html>
